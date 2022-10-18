@@ -10,3 +10,11 @@ body {
     background-image: url(../images/stars-background.jpg);
     background-position: center;
 }
+
+main {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
