@@ -18,3 +18,8 @@ main {
     align-items: center;
     justify-content: center;
 }
+
+#bio {
+    width: 20%;
+    height: 80%;
+}
