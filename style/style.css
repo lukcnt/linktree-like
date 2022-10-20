@@ -23,3 +23,8 @@ main {
     width: 20%;
     height: 80%;
 }
+
+#profile-image {
+    width: 100%;
+    height: 25%;
+}
