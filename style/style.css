@@ -76,3 +76,8 @@ nav {
     justify-content: space-evenly;
     list-style-type: none;
 }
+
+a {
+    text-decoration: none;
+    color: white;
+}
