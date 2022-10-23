@@ -46,11 +46,13 @@ main {
 
 #name {
     font-size: 3rem;
+    backdrop-filter: blur(3px);
 }
 
 #occupation {
     font-size: 2rem;
     font-weight: lighter;
+    backdrop-filter: blur(3px);
 }
 
 #links {
