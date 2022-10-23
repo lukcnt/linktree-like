@@ -53,12 +53,12 @@ main {
 }
 
 #name {
-    font-size: 3rem;
+    font-size: 2.8rem;
     backdrop-filter: blur(3px);
 }
 
 #occupation {
-    font-size: 2rem;
+    font-size: 1.8rem;
     font-weight: lighter;
     backdrop-filter: blur(3px);
 }
