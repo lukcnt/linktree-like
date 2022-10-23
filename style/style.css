@@ -59,7 +59,7 @@ main {
 
 #occupation {
     font-size: 1.8rem;
-    font-weight: lighter;
+    font-weight: 550;
     backdrop-filter: blur(3px);
 }
 
