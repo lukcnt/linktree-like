@@ -77,6 +77,12 @@ main {
     list-style-type: none;
 }
 
+#list-container li {
+    width: 100%;
+    height: 60px;
+    background-color: red;
+}
+
 .button {
     text-decoration: none;
     color: white;
