@@ -77,7 +77,7 @@ main {
     list-style-type: none;
 }
 
-a {
+.button {
     text-decoration: none;
     color: white;
 }
