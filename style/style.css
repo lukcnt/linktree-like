@@ -86,11 +86,14 @@ main {
 }
 
 .button {
-    display: block;
+    display: flex;
+    flex-direction: row;
     width: 100%;
     height: 100%;
     text-decoration: none;
     color: white;
+    align-items: center;
+    justify-content: center;
 }
 
 #github-button {
