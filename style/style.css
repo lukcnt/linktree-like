@@ -90,3 +90,7 @@ main {
     text-decoration: none;
     color: white;
 }
+
+#github-button {
+    background-color: #022966;
+}
