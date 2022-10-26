@@ -38,7 +38,7 @@ main {
     height: 180px;
     border-radius: 50%;
     border: 4px solid white;
-    box-shadow: 0 0 150px 5px white;
+    box-shadow: 0 0 50px 5px white;
 }
 
 #text-holder {
