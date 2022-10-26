@@ -101,3 +101,7 @@ main {
 #instagram-button {
     background: radial-gradient(circle at 5% 197%, #fdf497 5%, #fdf497 15%, #fd5949 35%,#d6249f 50%,#285AEB 110%);
 }
+
+#discord-button {
+    background-color: #404eed;
+}
