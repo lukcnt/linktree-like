@@ -54,13 +54,13 @@ main {
 
 #name {
     font-size: 2.8rem;
-    backdrop-filter: blur(3px);
+    backdrop-filter: blur(1px);
 }
 
 #occupation {
     font-size: 1.8rem;
     font-weight: 550;
-    backdrop-filter: blur(3px);
+    backdrop-filter: blur(1px);
 }
 
 #menu-links {
