@@ -84,6 +84,7 @@ main {
     font-weight: bolder;
     font-size: 1rem;
     border-radius: 10px;
+    position: relative;
 }
 
 .button {
@@ -123,4 +124,6 @@ main {
 
 .fa-brands {
     font-size: 30px;
+    position: absolute;
+    left: 20px;
 }
