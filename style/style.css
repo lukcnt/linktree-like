@@ -10,6 +10,7 @@ body {
     background-image: url(../images/stars-background.webp);
     background-size: cover;
     background-position: center;
+    backdrop-filter: blur(3px);
 }
 
 main {
