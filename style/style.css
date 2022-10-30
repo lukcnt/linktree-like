@@ -22,8 +22,10 @@ main {
 }
 
 #bio {
-    width: 20%;
+    width: 80%;
+    max-width: 400px;
     height: 80%;
+    min-height: 800px;
 }
 
 #profile-image-container {
