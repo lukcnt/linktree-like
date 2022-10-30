@@ -138,3 +138,19 @@ main {
 .fa-discord {
     left: 15px;
 }
+
+@media (max-width: 360px) {
+    #bio {
+        width: 95%;
+        height: 95%;
+    }
+
+    #name {
+        font-size: 2.2rem;
+    }
+    
+    #occupation {
+        font-size: 1.4rem;
+        font-weight: 550;
+    }
+}
